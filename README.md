@@ -1,2 +1,2 @@
-Code repository for the Imperial College London course: Introduction to Machine Learning 2020/2021
+Example python notebook for the Introduction to Machine Learning course at Imperial College London.
 
